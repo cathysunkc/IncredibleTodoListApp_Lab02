@@ -1,0 +1,13 @@
+Lab Assignment 2: Layout Components
+
+In the ZIP file, please find:
+
+1. The IncredibleTodoListApp Project (without "node_modules" folder)
+   URL on Github: https://github.com/cathysunkc/IncredibleTodoListApp_Lab02
+
+
+2. Test Result
+   URL on Github: https://github.com/cathysunkc/IncredibleTodoListApp_Lab02/tree/main/document/Lab02_TestResult_CathySun.png
+
+
+
